@@ -23,7 +23,7 @@
     "typescript-transform-paths": "^2.2.3"
   },
   "main": "dist/index.js",
-  "name": "config",
+  "name": "settings",
   "scripts": {
     "start": "jest --watchAll",
     "test": "jest --passWithNoTests"
