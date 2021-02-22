@@ -25,7 +25,6 @@
   "main": "dist/index.js",
   "name": "config",
   "scripts": {
-    "postinstall": "husky install",
     "start": "jest --watchAll",
     "test": "jest --passWithNoTests"
   },
